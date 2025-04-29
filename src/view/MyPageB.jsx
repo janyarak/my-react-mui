@@ -17,7 +17,7 @@ import {
   CssBaseline,
 } from "@mui/material";
 import FlightTakeoffIcon from "@mui/icons-material/FlightTakeoff";
-import FalaFew from "../assets/1697558103063_mr1697558176749.jpg";
+import Noey from "../assets/1697558103063_mr1697558176749.jpg";
 import Facebook from "../assets/Sicons-Basic-Round-Social-Facebook.512.png";
 import Line from "../assets/line-icon.png";
 import X from "../assets/Github-Octicons-X-16.512.png";
@@ -49,10 +49,10 @@ function MyPageB() {
                 flexGrow: 1,
               }}
             >
-              FalaFew Proflie
+              Noey Proflie
             </Typography>
-            <Typography sx={{ ml: 2 }}>Chattanon Amprasoet</Typography>
-            <Avatar alt="mem" src={FalaFew} sx={{ ml: 2 }} variant="rounded" />
+            <Typography sx={{ ml: 2 }}>Janyarak Chuklin</Typography>
+            <Avatar alt="mem" src={Noey} sx={{ ml: 2 }} variant="rounded" />
           </Toolbar>
         </AppBar>
       </Box>
@@ -66,7 +66,7 @@ function MyPageB() {
       >
         <Avatar
           alt="omo"
-          src={FalaFew}
+          src={Noey}
           variant="rounded"
           sx={{
             width: 200,
@@ -82,7 +82,7 @@ function MyPageB() {
           fontSize={"2rem"}
           fontWeight={"bold"}
         >
-          ฉัตรตนนท์ อำประเสริฐ
+          จรรยารักษ์ ชูกลิ่น 
         </Typography>
         <Typography
           sx={{ mt: 1 }}
@@ -90,7 +90,7 @@ function MyPageB() {
           fontSize={"1.5rem"}
           fontWeight={"bold"}
         >
-          ID:6419410039
+          ID:6419410026
         </Typography>
       </Box>
       <Box sx={{ mt: 5, display: "flex", justifyContent: "center" }}>
